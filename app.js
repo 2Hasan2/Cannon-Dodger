@@ -1,5 +1,4 @@
-import Player from './modules/Player.js';
-import Cannon from './modules/Cannon.js';
+
 const start_btn = document.getElementById('start_btn');
 const Game = {
     canvas: document.getElementById('canvas'),
