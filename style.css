@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    background: #000;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    width: 90%;
+    border: 1px solid #fff;
+
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    height: 50vh;
+    background-color: #ffffff;
+    padding: 5vw;
+    font-size: 5vw;
+    border-radius: 5vw;
+    opacity: 0.2;
+    position: absolute;
+    gap: 2vh;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.score {
+    font-size: 10vw;
+    align-self: center;
+}
+
+#start_btn {
+    width: 10vw;
+    height: 10vw;
+    font-size: 3vw;
+    border-radius: 50%;
+    background-color: #ffffff;
+    border: 0.5vw solid #000000;
+    cursor: pointer;
+    outline: none;
+}
+
+#start_btn:hover {
+    background-color: #000000;
+    color: #ffffff;
+}
