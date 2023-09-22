@@ -15,7 +15,7 @@ Cannon Dodger is an exciting web game where you control a player and dodge incom
 
 ## Screenshots
 
-![Game img][./game.png]
+![Game img](game.png)
 
 
 ## Getting Started
@@ -51,7 +51,7 @@ If you'd like to contribute to this game, please follow these steps:
 
 ## Credits
 
-This game was created by [Hasan Mohammed].
+This game was created by [Hasan Mohammed](https://www.linkedin.com/in/hasan-ragab-3452b927a/).
 
 ## License
 
