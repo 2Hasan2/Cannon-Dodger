@@ -1,4 +1,4 @@
-export default class Bullet {
+class Bullet {
     constructor(x, y, r, ctx, angle) {
         this.x = x;
         this.y = y;

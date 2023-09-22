@@ -1,7 +1,4 @@
-
-import Bullet from './Bullet.js';
-
-export default class Cannon {
+class Cannon {
     constructor(x, y, ctx, r, angle, shootingInterval) {
         this.x = x;
         this.y = y;
