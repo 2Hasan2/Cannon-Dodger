@@ -34,11 +34,11 @@ To run the game locally, follow these steps:
 
 ## Code Structure
 
-The game's code is organized into two main modules:
+The game's code is organized into Tree main Class:
 
-- `Player.js`: Handles the player's movement and drawing on the canvas.
-- `Cannon.js`: Manages the cannons, their shooting behavior, and collision detection.
-- `Bullet.js`: Manages the bullets fired by cannons.
+- `Player`: Handles the player's movement and drawing on the canvas.
+- `Cannon`: Manages the cannons, their shooting behavior, and collision detection.
+- `Bullet`: Manages the bullets fired by cannons.
 
 ## Contributing
 
