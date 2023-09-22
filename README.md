@@ -15,7 +15,7 @@ Cannon Dodger is an exciting web game where you control a player and dodge incom
 
 ## Screenshots
 
-![Game img][./game.png]
+![Game img][game.png]
 
 
 ## Getting Started
